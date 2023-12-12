@@ -1,0 +1,9 @@
+#map {
+    margin:5px;
+    border-radius:10px;
+    width:1310px;
+    height:550px;
+}
+#map-container {
+    position: relative;
+}
